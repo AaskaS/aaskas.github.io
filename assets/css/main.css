@@ -202,6 +202,7 @@ input, select, textarea {
 
 .box {
 	background: #fff;
+	/* background: rgb(24, 29, 29); */
 	border-radius: 6px;
 	box-shadow: 0 2px 0 0 #e5e5e5;
 	margin: 0 0 2em 0;
@@ -2212,7 +2213,8 @@ input, select, textarea {
 		position: relative;
 		display: inline-block;
 		border-radius: 0.35em;
-		color: #fff !important;
+		/*color: #fff !important;*/
+		color: black !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
 		background-color: #8ebebc;
@@ -2460,7 +2462,9 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					/*color: #fff;*/
+					color: rgb(24, 24, 24);
+					font-weight: 400;
 					border-color: inherit;
 				}
 
@@ -2481,8 +2485,9 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
+				color: black;
 				/*background-image: url("../../images/banner.jpg");*/
-				background-image: url("../../images/background.jpg");
+				background-image: url("../../images/mountain.jpg");
 			}
 
 			#main > section.two {
