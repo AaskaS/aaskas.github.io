@@ -27,9 +27,15 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
+	Background picture by: David Schultz (https://unsplash.com/@davidschultz)
+	Skills picture by: Priscilla Du Preez (https://unsplash.com/@priscilladupreez)
+  	About me picture by: Kelly Sikkema (https://unsplash.com/@kellysikkema)
+  
+
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
+
 
 	Icons:
 		Font Awesome (fontawesome.io)
